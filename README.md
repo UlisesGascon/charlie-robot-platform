@@ -22,6 +22,14 @@ HCR Mobile Robot Kit with additional electronic and controlled with Node.js
 - [ ] Easy to use and great test coverage without the need of the physical hardware 👾
 
 
+## Charlie in video
+
+[![CharlieBot showcase during my interview in Youtube](https://speaking.ulisesgascon.com/_next/image?url=%2Fimg%2Fcharliebot.gif&w=750&q=75)](https://www.youtube.com/live/vcSLx1PIsmo?feature=share&t=2233)
+
+
+[See the robot presentation during `Event in Spanish: Open Source Viernes con @ulisesgascon` (minute 37:00)](https://www.youtube.com/live/vcSLx1PIsmo?feature=share&t=2233)
+
+
 ## Making off 💪 
 
 ![CharlieBot and I in the homelab](.github/other/charliebot_and_ulisesgascon.jpg)
